@@ -38,7 +38,6 @@ export const metadata = {
   authors: [{ name: "Sahil Khandekar" }],
   creator: "Sahil Khandekar",
   publisher: "Sahil Khandekar",
-  metadataBase: new URL(process.env.NEXT_PUBLIC_BASE_URL),
   openGraph: {
     title: "Sahil Khandekar — Full-stack Developer Portfolio",
     description:
